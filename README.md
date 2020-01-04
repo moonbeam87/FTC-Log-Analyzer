@@ -1,6 +1,6 @@
 # FTC Log Analyzer
 
-FTC Log Analyzer is a Python Web Application built with Plot.ly and Dash to help FTC Teams visualize CSV Data from the robot controller. 
+FTC Log Analyzer is a Python Web Application built with Plot.ly and Dash to help FTC Teams visualize CSV Data from the robot controller. The App is loosely based off the "Dash Financial Report" example app.
 
 The App in its current state can only view the Current Draw, and the Position of two motors, though I hope to quickly add more functionality
 
@@ -36,7 +36,8 @@ The .CSV file you write too will have to be extracted from the Phone's storage, 
 
 By Default, the FTC Log Analyzer will link to .csv file under "main.py". The default link is some sample data, and if you do not change it, you will run into some issues (like not having the correct data set for starters). You will have to change this link to the link of the raw CSV data you made earlier.
 
-You Also might want to ignore everything below this line :) 
+### Step 4:
+Install REQUIREMENTS.txt using pip (python package manager). This will stop runtime errors on your code
 ```python
 import foobar
 
