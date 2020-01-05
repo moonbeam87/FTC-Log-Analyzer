@@ -6,6 +6,8 @@ The App in its current state can only view the Current Draw, and the Position of
 
 
 ## Modifying and Running the App Locally - Precautions and Notice
+Guess what! There's a special branch for you guys to push your own versions of the app! Use that to push significant app changes!
+
 Feel free to modify the app as much as possible! However there are a couple of precautions that you might wanna take, including:
 
 - Have at the very least, a basic understanding of Python. You don't need to be a Python Guru, just a simple understanding should be enough.
