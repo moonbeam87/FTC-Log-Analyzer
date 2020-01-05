@@ -20,7 +20,7 @@ Just a notice. When adding extra graphs, please make sure you follow the layout 
 Pull or Clone our Repository. Then run:
 
 ```bash
-$user python3 init.py
+$user python3 app.py
 ```
 This will open the app on 127.0.0.1:8050
 
@@ -48,12 +48,9 @@ By Default, the FTC Log Analyzer will link to some .csv files under "overview.py
 
 ### Step 4:
 Install REQUIREMENTS.txt using pip (python package manager). This will stop runtime errors on your code
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+$ sudo apt-get install pip -y
+$ pip install -r requirements.txt
 ```
 ## Using the App online
 Expect to see this feature available soon! Including a "upload .csv" so you won't be changing the source code every time!
