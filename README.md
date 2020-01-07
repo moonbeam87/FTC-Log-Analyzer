@@ -38,11 +38,11 @@ Data, Data, Data, Data, Data
 Data, Data, Data, Data, Data
 //blah blah blah u get the idea :)
 ```
-Tedious? Yes we know. It's a small price to pay while we work on a better solution.
+Tedious? Yes I know. It's a small price to pay while I work on a better solution.
 
 ### Step 2:
 
-The .CSV file you write too will have to be extracted from the Phone's storage, and loaded onto a computer with WiFi connection. This file will then have to be posted to GitHub, PasteBin, Google Drive, or any kind of Internet Connected File Storage Service which will let you link the raw CSV Data (We recommend GitHub).
+The .CSV file you write too will have to be extracted from the Phone's storage, and loaded onto a computer with WiFi connection. This file will then have to be posted to GitHub, PasteBin, Google Drive, or any kind of Internet Connected File Storage Service which will let you link the raw CSV Data (I recommend GitHub).
 
 ### Step 3:
 
